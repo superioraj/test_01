@@ -3,11 +3,6 @@
 **화살표 키로 조작하는 클래식 스네이크 게임**입니다.  
 HTML, CSS, JavaScript가 모두 **하나의 HTML 파일** 안에 포함되어 있어 바로 실행할 수 있습니다.
 
-<p align="center">
-  https://img.shields.io/badge/HTML-5E5E5E?logo=html5&logoColor=white
-  https://img.shields.io/badge/JavaScript-efd81d?logo=javascript&logoColor=black
-  <img src="https://img.shields.io/b54BDD?logo=css3&logoColor=white
-</p>
 
 ---
 
